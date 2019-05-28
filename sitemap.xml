@@ -3,17 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sam6255.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://sam6255.github.io/about/</loc>
+    <lastmod>2019-05-28T14:15:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://sam6255.github.io/</loc>
+    <lastmod>2019-05-28T14:15:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sam6255.github.io/posts/kubernetes%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2019-05-28T14:02:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sam6255.github.io/posts/</loc>
+    <lastmod>2019-05-28T14:02:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sam6255.github.io/tags/</loc>
+    <lastmod>2019-05-28T14:02:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sam6255.github.io/tags/kubernetes/</loc>
+    <lastmod>2019-05-28T14:02:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
