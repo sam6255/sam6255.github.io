@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 宁静致远</title>
+    <link>https://sam6255.github.io/posts/</link>
+    <description>Recent content in Posts on 宁静致远</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 14:02:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://sam6255.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes常用命令</title>
+      <link>https://sam6255.github.io/posts/kubernetes%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Tue, 28 May 2019 14:02:07 +0800</pubDate>
+      
+      <guid>https://sam6255.github.io/posts/kubernetes%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>节点开启调度 kubectl taint nodes 172.16.119.109 node-role.</description>
+    </item>
+    
+  </channel>
+</rss>
